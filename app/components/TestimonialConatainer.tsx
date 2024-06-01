@@ -1,11 +1,9 @@
 import { NextPage } from "next";
 import Image from "next/image";
 import Star from "@/app/assets/icons/star.png";
-import iPhone from "@/app/assets/images/iPhone.png";
-import VISA from "@/app/assets/images/VISA.png";
-import Ellipse from "@/app/assets/images/ellipse.png";
+
 import ColorCombination from "@/app/assets/images/ColorCombination.png";
-import Bell from "@/app/assets/icons/bell.png";
+
 import GroupPhoto1 from "@/app/assets/images/GroupPhoto1.png";
 import AllMen from "@/app/assets/images/AllMen.png";
 interface Props {}

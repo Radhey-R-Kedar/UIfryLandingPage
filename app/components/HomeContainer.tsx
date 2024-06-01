@@ -1,11 +1,11 @@
 import Image from "next/image";
 import RightArrow from "@/app/assets/icons/right-arrow.png";
 import PlayButton from "@/app/assets/icons/play-button.png";
-import Home1 from "@/app/assets/images/home1.png";
+import Home1 from "@/app/assets/images/Home1.png";
 import Star from "@/app/assets/icons/star.png";
 import iPhone from "@/app/assets/images/iPhone.png";
 import iPhone2 from "@/app/assets/images/iPhone2.png";
-import Ellipse from "@/app/assets/images/ellipse.png";
+import Ellipse from "@/app/assets/images/Ellipse.png";
 import ColorCombination from "@/app/assets/images/ColorCombination.png";
 
 import { NextPage } from 'next'

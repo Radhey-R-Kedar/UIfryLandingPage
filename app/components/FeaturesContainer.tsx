@@ -2,7 +2,7 @@ import { NextPage } from "next";
 import Image from "next/image";
 import Star from "@/app/assets/icons/star.png";
 import iPhone from "@/app/assets/images/iPhone.png";
-import Ellipse from "@/app/assets/images/ellipse.png";
+import Ellipse from "@/app/assets/images/Ellipse.png";
 import ColorCombination from "@/app/assets/images/ColorCombination.png";
 import FeaturIcon1 from "@/app/assets/icons/featureicon1.png";
 import FeaturIcon2 from "@/app/assets/icons/featureicon2.png";

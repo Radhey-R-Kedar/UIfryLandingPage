@@ -3,7 +3,7 @@ import Image from "next/image";
 import Star from "@/app/assets/icons/star.png";
 import iPhone from "@/app/assets/images/iPhone.png";
 import VISA from "@/app/assets/images/VISA.png";
-import Ellipse from "@/app/assets/images/ellipse.png";
+import Ellipse from "@/app/assets/images/Ellipse.png";
 import ColorCombination from "@/app/assets/images/ColorCombination.png";
 import Bell from "@/app/assets/icons/bell.png";
 
