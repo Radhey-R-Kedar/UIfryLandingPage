@@ -6,6 +6,7 @@ import FeaturesContainer from "./components/FeaturesContainer";
 import AdvantagesContainer from "./components/AdvantagesContainer";
 import CustomizableContainer from "./components/CustomizableContainer";
 import TestimonialConatainer from "./components/TestimonialConatainer";
+import Faq from "./components/Faq";
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
       <AdvantagesContainer/>
       <CustomizableContainer/>
       <TestimonialConatainer/>
+      <Faq/>
     </div>
   );
 }
