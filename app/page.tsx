@@ -7,6 +7,8 @@ import AdvantagesContainer from "./components/AdvantagesContainer";
 import CustomizableContainer from "./components/CustomizableContainer";
 import TestimonialConatainer from "./components/TestimonialConatainer";
 import Faq from "./components/Faq";
+import AppDownloadContainer from "./components/AppDownloadContainer";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -32,6 +34,8 @@ export default function Home() {
       <CustomizableContainer/>
       <TestimonialConatainer/>
       <Faq/>
+      <AppDownloadContainer/>
+      <Footer/>
     </div>
   );
 }

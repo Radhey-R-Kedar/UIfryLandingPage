@@ -6,6 +6,7 @@ import ColorCombination from "@/app/assets/images/ColorCombination.png";
 
 import GroupPhoto1 from "@/app/assets/images/GroupPhoto1.png";
 import AllMen from "@/app/assets/images/AllMen.png";
+
 interface Props {}
 
 const TestimonialConatainer: NextPage<Props> = ({}) => {
@@ -57,13 +58,15 @@ const TestimonialConatainer: NextPage<Props> = ({}) => {
               minus rerum, eum molestiae suscipit maiores dicta? Veritatis atque
               dolorem distinctio, accusantium rem a quo eveniet.
             </p>
-            <Image
+              <div>
+              <Image
               className="mt-3"
               src={AllMen}
               alt="AllMen"
               width={150}
               height={150}
             ></Image>
+              </div>
             <h1 className="text-2xl font-bold text-black mt-2">Nick Jonas</h1>
           </div>
         </div>

@@ -12,7 +12,7 @@ interface Props {}
 
 const FeaturesContainer: NextPage<Props> = ({}) => {
   return (
-    <div className="flex flex-row justify-around h-[100%] w-full bg-slate-50 mt-10 mb-10">
+    <div id="features" className="flex flex-row justify-around h-[100%] w-full bg-slate-50 mt-10 mb-10">
       <div className="flex flex-col justify-center items-center w-[40%] relative">
         <Image className="absolute top-10 " src={ColorCombination} alt="color-combination" width={500}></Image>
         <Image className="absolute top-0 left-5" src={Ellipse} alt="ellipse" width={450} height={450}></Image>

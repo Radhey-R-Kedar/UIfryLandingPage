@@ -14,7 +14,7 @@ interface Props {}
 
 const HomeContainer: NextPage<Props> = ({}) => {
   return (
-    <div className="flex flex-1 ml-5 mr-5 justify-around items-center mt-10 mb-10">
+    <div id="home" className="flex flex-1 ml-5 mr-5 justify-around items-center mt-10 mb-10">
       <div className="flex flex-col w-[40%] justify-center relative pl-20 pt-10">
         <Image
           src={ColorCombination}
@@ -32,7 +32,7 @@ const HomeContainer: NextPage<Props> = ({}) => {
           faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
         </h3>
         <div className="flex flex-row items-center mt-5 ">
-          <button className="flex bg-black text-white px-4 py-2 rounded-md items-center z-10">
+          <button className="flex bg-black text-white hover:text-orange-600 px-4 py-2 rounded-md items-center z-10">
             Get Started{" "}
             <Image
               src={RightArrow}
@@ -42,7 +42,7 @@ const HomeContainer: NextPage<Props> = ({}) => {
               style={{ filter: "invert(100%)", marginLeft: "5px" }}
             ></Image>
           </button>
-          <button className="flex text-black font-bold px-4 py-2 rounded-md ml-5 items-center z-10">
+          <button className="flex text-black hover:text-orange-600 font-bold px-4 py-2 rounded-md ml-5 items-center z-10">
             <Image
               src={PlayButton}
               alt="play-button"
