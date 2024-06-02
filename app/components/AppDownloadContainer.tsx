@@ -1,7 +1,7 @@
 import { NextPage } from "next";
-import RightUpEllipse from "@/app/assets/images/RightUpEllipse.png";
-import LeftDownEllipse from "@/app/assets/images/LeftDownEllipse.png";
-import IPhone3Pair from "@/app/assets/images/IPhone3Pair.png";
+import RightUpEllipse from "@/app/assets/images/rightUpEllipse.png";
+import LeftDownEllipse from "@/app/assets/images/leftDownEllipse.png";
+import IPhone3Pair from "@/app/assets/images/iPhone3Pair.png";
 import Star from "@/app/assets/icons/star.png";
 import ColorCombination from "@/app/assets/images/ColorCombination.png";
 import AppleLogo from "@/app/assets/icons/AppleLogo.png";
